@@ -3,7 +3,6 @@ runs/
 logs/
 __pycache__/
 inference_models/
-test_imgs/
 notebooks/dev_notebook.ipynb
 notebooks/data_exploration.ipynb
 commands.md
